@@ -10,21 +10,42 @@
 3. Label : Manage Project Information
  * Description :
 
-####Data Flows
-1. Label :
-* Description :
-2. Label :
-* Description :
-
-
-####Data Stores / Databases
-1. Label :
-* Description :
-2. Label :
-* Description :
-
 ####Externals
-1. Label :
-* Description :
-2. Label :
-* Description :
+1. Label : Corporate Developer
+ * Description : Internal employee of the corporation who owns this system. 
+2. Label : Corporate Manager
+ * Description :  
+3. Label : National Vulnerability Database
+ * Description : 
+ 
+####Data Stores
+1. Label : NIST CPE Information
+ * Description :
+2. Label : Risk DB
+ * Description :
+
+####Data Flows
+1. Label : File
+ * Description : 
+2. Label : Package
+ * Description : 
+3. Label : Package Query
+ * Description : 
+4. Label : CPE Information
+ * Description : 
+5. Label : Package and CPE Information
+ * Description : 
+6. Label : CPE Request
+ * Description : 
+7. Label : CPE Response
+ * Description : 
+8. Label : CPE File 
+ * Description : 
+9. Label : Project Info Request
+ * Description : 
+10. Label : Project Info Response
+ * Description : 
+11. Label : Package Information Request
+ * Description : 
+12. Label : Package Information Response
+ * Description : 
