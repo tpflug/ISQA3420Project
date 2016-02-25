@@ -2,5 +2,11 @@
 
 This file will be for the DFD of our project.
 
-Test Image:
+We are responsible for four things: 
+1) Provide information back to the developer
+2) Make ‘Manage Code Streams’ more granular 
+3) Include policy information in the system 
+3) Include manifest information in the system 
+
+Initial DFD release, copied from class:
 ![alt tag](https://cloud.githubusercontent.com/assets/16803669/13312775/e096c5e2-db5e-11e5-8281-7c6255503278.PNG)
