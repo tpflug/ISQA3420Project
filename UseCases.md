@@ -13,3 +13,25 @@
 * Failed End Conditions: Developer is unable to check in code. Checked in code is not checked for vulnerabilities, failing to update Risk DB. 
 * Trigger: Code check in 
 
+### Use Case #2
+
+* Title: Apply policy against the vulnerability of the package 
+* Primary Actor: 
+* Goal in Context: 
+* Stakeholders: 
+* Preconditions: 
+* Main Success Scenario: 
+* Failed End Conditions:  
+* Trigger: 
+
+### Use Case #3
+
+* Title: Store package and CPE information into the Risk database 
+* Primary Actor: 
+* Goal in Context: 
+* Stakeholders: 
+* Preconditions: 
+* Main Success Scenario: 
+* Failed End Conditions:  
+* Trigger: 
+
