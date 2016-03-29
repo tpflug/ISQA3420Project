@@ -19,3 +19,6 @@ Updated DFD, Back To Developer
 
 Updated DFD, Mannager Apply Policy
 ![alt tag](https://cloud.githubusercontent.com/assets/16803669/14118651/1cbe8760-f5b0-11e5-8919-56e5716bf3d2.PNG)
+
+Updated DFD, Include Manifest Information
+![alt tag](https://cloud.githubusercontent.com/assets/12904597/14119232/16329bba-f5a2-11e5-9aa4-3640772cc197.PNG)
