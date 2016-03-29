@@ -16,3 +16,6 @@ Updated DFD, Granulated Manage Code Streams
 
 Updated DFD, Back To Developer
 ![alt tag](https://cloud.githubusercontent.com/assets/12904597/14118371/cbd69276-f5ae-11e5-82f6-a6bc1e14c2f8.PNG)
+
+Updated DFD, Mannager Apply Policy
+![alt tag](https://cloud.githubusercontent.com/assets/16803669/14118651/1cbe8760-f5b0-11e5-8919-56e5716bf3d2.PNG)
