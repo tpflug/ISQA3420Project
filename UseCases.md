@@ -16,13 +16,13 @@
 ### Use Case #2
 
 * Title: Apply policy against the vulnerability of the package 
-* Primary Actor: 
-* Goal in Context: 
-* Stakeholders: 
-* Preconditions: 
-* Main Success Scenario: 
-* Failed End Conditions:  
-* Trigger: 
+* Primary Actor: Manager
+* Goal in Context: To determine whether the external source code's risks exceeds the allowed level of vulnerability set by the policys governing this.
+* Stakeholders: Developer / Manager
+* Preconditions: Vulerability information has been appropirately gathered and stored. Policy database is up to date.
+* Main Success Scenario: Manager sends project vulnerability information to be checked against policy and recieves a valid response detailing whether or not the project passes policy.
+* Failed End Conditions:  Manager is unable to pull valid project and vulnerability information. Manager cannot access policy database. Policy check returns false positive result.
+* Trigger: Project information recieved by Manager.
 
 ### Use Case #3
 
