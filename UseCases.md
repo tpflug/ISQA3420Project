@@ -24,12 +24,12 @@
 
 ### Use Case #3
 
-* Title: Store package and CPE information into the Risk database 
-* Primary Actor: Developer
-* Goal in Context: Store this information so that the manager can make an informed decision based on the risk of the package. 
+* Title: Manager updates/creates risk policy information 
+* Primary Actor: Manager
+* Goal in Context: 
 * Stakeholders: Developer / Manager
-* Preconditions: The developer submits a valid file and or package. NIST CPE Information returns valid CPE and Package CVE's. The Analyze Code Stream CVE Impact process does not impact the data in a harmful manner. 
-* Main Success Scenario: The Analyze Code Stream CVE Impact process does not impact the data in a harmful manner. 
-* Failed End Conditions: The developer does not submit a proper file and or package. The NIST CPE Information does not return proper data. The Analyze Code Stream CVE Impact process impacts the data in a harmful way. 
-* Trigger: Corporate developer submits a package and or file.
+* Preconditions: 
+* Main Success Scenario:
+* Failed End Conditions: 
+* Trigger: 
 
