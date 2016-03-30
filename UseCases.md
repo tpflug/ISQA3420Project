@@ -1,7 +1,5 @@
 #Use Cases
 
-##This project will have 3 Use cases
-
 ### Use Case #1
 
 * Title: Developer commits code to be examined for vulnerabilities 
