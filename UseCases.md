@@ -26,10 +26,10 @@
 
 * Title: Manager updates/creates risk policy information 
 * Primary Actor: Manager
-* Goal in Context: 
+* Goal in Context: The manager provides evaulation on risk policy information and establishes the appropriate policy by updating an existing policy or creating a new policy.  
 * Stakeholders: Developer / Manager
-* Preconditions: 
-* Main Success Scenario:
-* Failed End Conditions: 
-* Trigger: 
+* Preconditions: Risk and policy database is up to date. 
+* Main Success Scenario: Manager receives risk policy information and either updates an existing policy or creates a new policy based on the information received. 
+* Failed End Conditions: Manager is unable to receive risk policy information and is unable to make a change or create a new policy. 
+* Trigger: Risk policy information received by the developer. 
 
