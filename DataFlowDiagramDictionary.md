@@ -9,13 +9,13 @@ Note: We may need to split this up by first naming one process, then naming the 
 2. Label : Analyze Code Stream CVE Impact
  * Description : Recieves back the CPE information as well as it's related CVEs from the NIST query. Determines the project information for a manifest and its related risks for the manifest and the Risk database.
 3. Label : Create Project Manifest
- * Description :
+ * Description : Recieves project and risk informaiton from Analyze Code Stream CVE impact and formulates the project manifest for the Corporate Manager and any other downstream users.
 4. Label : Manage Project Information
- * Description :
+ * Description : Receives queries from both developers and managers, gathers project risk information from the Risk database, creates a project informaiton response to be sent back to the requester.
 5. Label : Manage CPE Information (Daily Job)
- * Description :
+ * Description : When NIST updates their vulnerability database, this process handles the task by receiving CPE information from NIST and creating a CPE file to be sent to the DB.
 6. Label : Check Project Against Policy
- * Description :
+ * Description : 
 
 ####Externals
 1. Label : Corporate Developer
