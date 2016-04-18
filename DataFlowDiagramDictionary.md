@@ -18,11 +18,11 @@
 
 ####Externals
 1. Label : Corporate Developer
- * Description : Internal employee of the corporation who owns this system. 
+ * Description : Internal employee of the corporation who owns this system. Manages internal development of corporate systems and integration of external code into the company.
 2. Label : Corporate Manager
- * Description :  
+ * Description : Internal employee of the corporation who owns this system. Manages the overall process of integrating external code into the corporations system by checking vulnerabilities against set policies and passing project information downstream to the correct people.
 3. Label : National Vulnerability Database
- * Description : 
+ * Description : Large external corporation who handles the updating of a national code vulnerability database for general use. 
  
 ####Data Stores
 1. Label : NIST CPE Information
