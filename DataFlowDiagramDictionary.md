@@ -1,7 +1,6 @@
 ##Data Flow Diagram Dictionary
 
-###Tim and Al's Data Dictionary - ISQA 3420 Group Project
-Note: We may need to split this up by first naming one process, then naming the data flows, externals, and data stores associated with in before moving to another process. If we do this, we might want to have some way to note when we are referring to the same instance of something that gets hit in multiple processes. For example, if Process A and B both query the same Data Store, we would either want to note that we are using something like "Data Store 2 - Risk DB" for both, so that there is no thinking the two instances of the Risk DB are different ones. An alternative would be to just note it the first time we hit it, and not do that again for other processes that hit it. Just depends on how Germonprez would like it
+-----------------------
 
 ####Processes
 1. Label : Get CPE File/Package Info
