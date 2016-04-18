@@ -26,11 +26,11 @@
  
 ####Data Stores
 1. Label : NIST CPE Information
- * Description :
+ * Description : Contains known CPE and CVE information from NIST
 2. Label : Risk DB
- * Description :
+ * Description : Stored project risk information for the corporation which allows for developers and managers to view and assess vulnerability and policy checks.
 2. Label : Policy DB
- * Description :
+ * Description : Stores the actual policys for the corporation for checking against external code and determining the code's pass/fail status and level of vulnerability.
 
 ####Data Flows
 1. Label : File
