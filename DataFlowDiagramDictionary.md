@@ -15,7 +15,7 @@ Note: We may need to split this up by first naming one process, then naming the 
 5. Label : Manage CPE Information (Daily Job)
  * Description : When NIST updates their vulnerability database, this process handles the task by receiving CPE information from NIST and creating a CPE file to be sent to the DB.
 6. Label : Check Project Against Policy
- * Description : 
+ * Description : Recieves project vulnerability information from the Corporate Manager to determine the level of vulnerability accebtability. Queries the Policy database for the policy matching the project information, determines the pass/fail results, and sends it back to the manager.
 
 ####Externals
 1. Label : Corporate Developer
