@@ -5,9 +5,9 @@ Note: We may need to split this up by first naming one process, then naming the 
 
 ####Processes
 1. Label : Get CPE File/Package Info
- * Description : Placeholder Process - will be split up into two processes later on
+ * Description : Coporate Developer sends external file or packaged code to process which sorts out the correct CPE information to query the NIST CPE database. It then sends that query off to NIST.
 2. Label : Analyze Code Stream CVE Impact
- * Description :
+ * Description : Recieves back the CPE information as well as it's related CVEs from the NIST query. Determines the project information for a manifest and its related risks for the manifest and the Risk database.
 3. Label : Create Project Manifest
  * Description :
 4. Label : Manage Project Information
