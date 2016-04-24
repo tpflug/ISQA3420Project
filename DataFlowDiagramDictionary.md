@@ -52,22 +52,22 @@
 9. Label : Project Info Request
  * Description : 
 10. Label : Project Info Response
- * Description : 
+ * Description : Contains information about the project
 11. Label : Package Information Request
- * Description : 
+ * Description : Contains information about the project
 12. Label : Package Information Response
- * Description : 
+ * Description : Contains information about the package
 13. Label : CPE Request
- * Description : 
+ * Description : Contains CPE information
 14. Label : CPE Response
- * Description : 
+ * Description : Contains CPE information
 15. Label : CPE File
- * Description : 
+ * Description : Contains actual CPE file 
 16. Label : Project Vulnerability Information
- * Description : 
+ * Description : Contains vulnerability information about the project
 17. Label : Policy Pass/Fail Response
- * Description : 
+ * Description : A pass or fail based on the response
 18. Label : Poicy Info Query
- * Description : 
+ * Description : Query containing policy information
 19. Label: Policy Info Response
- * Description :
+ * Description : Query containing policy information
