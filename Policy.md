@@ -1,17 +1,12 @@
 #Sample Policy Documents
 
-These policies utilitize the Common Vulnerability Scoring System (CVSS), a standard tool for determining a numerical score of CVE risks. The CVSS is defined by NIST. More specific details regarding the scoring standards used by CVSS can be found at https://www.first.org/cvss/specification-document and https://nvd.nist.gov/cvss.cfm.
-
----
 ###Policy 1
 
 ####Context
 
-Our company plans to utilize files and/or packages of source code written outside of the organzation. As such, established policies are in place which dictate the allowable level of vulnerabilities in external code. Depending on the context within our organization that the external code stands to affect, these policies apply differently and require varying responses. The following policy will be applied when examining the risks attached to code involved in the backend processes for projects in the organization. That is, this policy applies to packages of code which have lower levels of exposure and criticality within our system, or are otherwise less often utilized by the system. 
+The following policy will be applied when examining the risks attached to code involved in the backend processes for projects in the organization. That is, this policy applies to packages of code which have lower levels of exposure and criticality within our system, or are otherwise less often utilized by the system. 
 
 ####Threshold
-
-The following table details the scoring standards for assessing vulnerability severity and acceptability of external code related to performing backend funcitons within our organization.
 
 | CVEE Rating   | Score Threshold | Pass/Fail  |
 | ------------- |:-------------:|:---------:|
