@@ -13,7 +13,7 @@ This policy utilitizes the Common Vulnerability Scoring System (CVSS), a standar
 The following table details the scoring standards for assessing vulnerability severity and acceptability of external code related to performing backend funcitons within our organization.
 
 | CVEE Rating   | Score Threshold | Pass/Fail  |
-| ------------- |:-------------:| ---------:|
+| ------------- |:-------------:|:---------:|
 | None      | 0.0      | Pass |
 | Low       | 0.1-3.9  | Pass |
 | Medium    | 4.0-6.9  | Pass |
@@ -34,7 +34,7 @@ This policy applies to external source which is being imported to help handle cl
 ####Threshold
 
 | CVEE Rating   | Score Threshold | Pass/Fail  |
-| ------------- |:-------------:| ---------:|
+| ------------- |:-------------:|:---------:|
 | None      | 0.0      | Pass |
 | Low       | 0.1-2.9  | Pass |
 | Medium    | 3.0-5.9  | Pass (With Restrictions) |
