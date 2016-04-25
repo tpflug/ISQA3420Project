@@ -1,5 +1,4 @@
 #Sample Policy Documents
----
 
 These policies utilitize the Common Vulnerability Scoring System (CVSS), a standard tool for determining a numerical score of CVE risks. The CVSS is defined by NIST. More specific details regarding the scoring standards used by CVSS can be found at https://www.first.org/cvss/specification-document and https://nvd.nist.gov/cvss.cfm.
 
