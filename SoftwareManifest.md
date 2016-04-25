@@ -19,7 +19,7 @@
   * Name: Apple AirPort Base Station 802.11
   * Version: 7.3.1
   * Date: 6/16/2003 12:00:00 AM
-  * CPE: cpe:/h:apple:802.11n:7.3.1
+  * CPE: cpe:/h:802.11n:7.3.1
   * CVE: CVE-2003-0270
   * Status - Fail
   * Comments: Provides administrator access, Allows complete confidentiality, integrity, and availability violation; Allows unauthorized disclosure of information; Allows disruption of service
