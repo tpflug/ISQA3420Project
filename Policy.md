@@ -22,7 +22,10 @@ The following table details the scoring standards for assessing vulnerability se
 | Critical  | 9.0-10.0 | Fail |
 
 ####Response
-If this doesn’t pass, what do you do? 
+
+For source which meets the passing criteria in this test (CVEE Score of 0.0-6.9), the code is approved to move to the next step of implemention, and its usage will be monitored and recorded for any unforseen issues resulting from vulnerabilities.
+
+For code that is rejected by this policy (CVEE Score of 7.0 and above), the Corporate Manager checking the policy will inform the developer and the organziation that the code is unacceptable for use within the organization. The manager will detail which specific vulnerabilities led to the high overall risk, and give any recommendations on potential alternative external source, or whether an in house coding of the process can be considered to avoid these vulnerabilities. 
 
 ---
 
@@ -44,5 +47,7 @@ This policy applies to external source which may be implemented in order to hand
 
 ####Response
 
-.
+For source which meets the passing criteria in this test (CVEE Score of 0.0-5.9), the code is approved to move to the next step of implemention, and its usage will be monitored and recorded for any unforseen issues resulting from vulnerabilities.
+
+For code that is rejected by this policy (CVEE Score of 6.0 and above), the Corporate Manager checking the policy will inform the developer and the organziation that the code is unacceptable for use within the organization. The manager will detail which specific vulnerabilities led to the high overall risk, and give any recommendations on potential alternative external source, or whether an in house coding of the process can be considered to avoid these vulnerabilities. 
 
