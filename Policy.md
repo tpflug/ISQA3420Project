@@ -21,6 +21,9 @@ The following table details the scoring standards for assessing vulnerability se
 ###Response
 If this doesn’t pass, what do you do? 
 
+---
+***
+
 ##Policy 2
 
 ###Context 
