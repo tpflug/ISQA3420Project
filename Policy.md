@@ -14,5 +14,13 @@ Our company plans to utilize files and/or packages of source code written outsid
 
 ###Threshold
 What are the minimum values (CVE) that need to be passed? 
+The following table details the scoring standards for assessing vulnerability severity and acceptability of external code.
+
+| CVEE Score    | Risk Severity | Response  |
+| ------------- |:-------------:| ---------:|
+| col 3 is      | right-aligned |           |
+| col 2 is      | centered      |           |
+| zebra stripes | are neat      |           |
+
 ###Response
 If this doesn’t pass, what do you do? 
