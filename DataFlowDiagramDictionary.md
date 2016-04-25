@@ -34,27 +34,27 @@
 
 ####Data Flows
 1. Label : File
- * Description : 
+ * Description : Contains the file submitted by the corporate developer
 2. Label : Package
- * Description : 
+ * Description : Contains the package submitted by the corporate developer
 3. Label : CPE Query
- * Description : 
+ * Description : Contains the necessary information to perform a CPE query
 4. Label : CPE Information
- * Description : 
+ * Description : Contains CPE information from the NIST datastore
 5. Label : Package CVEs
- * Description : 
+ * Description : Contains the Package CVEs from the NIST datastore
 6. Label : Project and Risk Information
- * Description : 
+ * Description : Analyzed project and risk information 
 7. Label : Code Stream Risk Information
- * Description : 
-8. Label : Policy Manifest Information
- * Description : 
+ * Description : Analyzed code stream risk information 
+8. Label : Project Manifest Information
+ * Description : Contains meta information about the project
 9. Label : Project Info Request
- * Description : 
+ * Description : Contains information about the project
 10. Label : Project Info Response
  * Description : Contains information about the project
 11. Label : Package Information Request
- * Description : Contains information about the project
+ * Description : Contains information about the package
 12. Label : Package Information Response
  * Description : Contains information about the package
 13. Label : CPE Request
